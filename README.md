@@ -11,3 +11,9 @@ Running Cypress(QA)
 ```
 npx cypress open
 ```
+
+# Todo
+
+### Investor
+- [x] Register
+- [x] Login
